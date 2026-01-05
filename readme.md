@@ -82,10 +82,7 @@ The fire and smoke detection model uses Ultralytics YOLOv8n (Nano) for lightweig
 - Dataset source: https://universe.roboflow.com/fire-rqbio/fire-and-smoke-yikzn
 
 ## Demo Media
-<video controls width="720" playsinline>
-  <source src="assets/EmberShield.mp4" type="video/mp4">
-  Your browser does not support the video tag. Watch it here: assets/EmberShield.mp4
-</video>
+![EmberShield Demo Screenshot](assets/demoSS.jpg)
 
 ![Fire Detection Demo](YOLO-Test/fire-and-smoke-detection-yolov8/fire%20demo%201.gif)
 ![Fire Detection Demo](YOLO-Test/fire-and-smoke-detection-yolov8/fire%20demo%202.gif)
